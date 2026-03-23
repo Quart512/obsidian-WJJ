@@ -220,7 +220,6 @@
   },
   "left-ribbon": {
     "hiddenItems": {
-      "google-drive-sync:Push to Google Drive": false,
       "bases:새 베이스 생성하기": false,
       "switcher:빠른 전환기 열기": false,
       "daily-notes:오늘의 일일 노트 열기": false,
