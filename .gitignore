@@ -4,7 +4,7 @@
 
 # --- 플러그인별 기기 종속 설정 ---
 # Git 플러그인 설정 (PC별로 백업 주기를 다르게 할 경우)
-#.obsidian/plugins/obsidian-git/data.json
+.obsidian/plugins/obsidian-git/data.json
 
 # 테마/UI 관련 캐시
 .obsidian/appearance.json
@@ -18,6 +18,9 @@
 # 플러그인 캐시 및 인덱스 데이터
 .obsidian/cache/
 .trash/
+
+# Obsidian Git 인증 관련 스크립트
+.obsidian/plugins/obsidian-git/obsidian_askpass.sh
 
 # --- OS 생성 파일 (Mac/Windows 혼용 시 필수) ---
 .AppleDouble
