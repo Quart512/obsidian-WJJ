@@ -1,0 +1,279 @@
+{
+  "main": {
+    "id": "4aa8556dc6a34c61",
+    "type": "split",
+    "children": [
+      {
+        "id": "39fd9d638146466d",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "2806caf4cc85f5b4",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "obsidian-vault-final/습관-인간개조 프로젝트/습관/ai 재교육 하루 한 섹션.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "ai 재교육 하루 한 섹션"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "b97ce0169b31d5f5",
+    "type": "split",
+    "children": [
+      {
+        "id": "533c1e536513dab2",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "f6e6e395fdfa91d0",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "검색"
+            }
+          },
+          {
+            "id": "65b897c50c7a5e94",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Bookmarks"
+            }
+          },
+          {
+            "id": "2e5ce2ce7c17c48b",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical",
+                "autoReveal": false
+              },
+              "icon": "lucide-folder-closed",
+              "title": "파일 탐색기"
+            }
+          }
+        ],
+        "currentTab": 2
+      }
+    ],
+    "direction": "horizontal",
+    "width": 200
+  },
+  "right": {
+    "id": "5422aef908d18da5",
+    "type": "split",
+    "children": [
+      {
+        "id": "34bcaab4333b10a6",
+        "type": "tabs",
+        "dimension": 44.57364341085272,
+        "children": [
+          {
+            "id": "2d3d5843412d57c3",
+            "type": "leaf",
+            "state": {
+              "type": "localgraph",
+              "state": {
+                "options": {
+                  "collapse-filter": true,
+                  "search": "",
+                  "localJumps": 1,
+                  "localBacklinks": true,
+                  "localForelinks": true,
+                  "localInterlinks": false,
+                  "showTags": false,
+                  "showAttachments": false,
+                  "hideUnresolved": false,
+                  "collapse-color-groups": true,
+                  "colorGroups": [],
+                  "collapse-display": true,
+                  "showArrow": false,
+                  "textFadeMultiplier": 0,
+                  "nodeSizeMultiplier": 1,
+                  "lineSizeMultiplier": 1,
+                  "collapse-forces": true,
+                  "centerStrength": 0.518713248970312,
+                  "repelStrength": 10,
+                  "linkStrength": 1,
+                  "linkDistance": 250,
+                  "scale": 1,
+                  "close": true
+                }
+              },
+              "icon": "lucide-git-fork",
+              "title": "그래프 뷰"
+            }
+          },
+          {
+            "id": "9bd372413c99ecc1",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "나가는 링크"
+            }
+          },
+          {
+            "id": "582642a508e8b6c9",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              },
+              "icon": "lucide-tags",
+              "title": "Tags"
+            }
+          },
+          {
+            "id": "cf4aa9c4d3c0a9a8",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {},
+              "icon": "lucide-list",
+              "title": "개요"
+            }
+          },
+          {
+            "id": "a937d1c550e3d439",
+            "type": "leaf",
+            "state": {
+              "type": "all-properties",
+              "state": {
+                "sortOrder": "frequency",
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-archive",
+              "title": "모든 속성"
+            }
+          }
+        ]
+      },
+      {
+        "id": "287df4b657a08611",
+        "type": "tabs",
+        "dimension": 55.42635658914728,
+        "children": [
+          {
+            "id": "5d73b9533629dc14",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "collapseAll": true,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": false
+              },
+              "icon": "links-coming-in",
+              "title": "백링크"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "google-drive-sync:Push to Google Drive": false,
+      "bases:새 베이스 생성하기": false,
+      "switcher:빠른 전환기 열기": false,
+      "daily-notes:오늘의 일일 노트 열기": false,
+      "graph:그래프 뷰 열기": false,
+      "canvas:새 캔버스 만들기": false,
+      "templates:템플릿 삽입": false,
+      "command-palette:명령어 팔레트 열기": false,
+      "publish:변경사항 게재": false,
+      "zk-prefixer:새 고유 노트 생성": false,
+      "markdown-importer:마크다운 형식 불러오기 열기": false,
+      "workspaces:작업 공간 레이아웃 관리": false,
+      "obsidian-git:Open Git source control": false
+    }
+  },
+  "active": "2806caf4cc85f5b4",
+  "lastOpenFiles": [
+    "obsidian-vault-final/습관-인간개조 프로젝트/습관-인간개조 프로젝트.md",
+    "obsidian-vault-final/도전과제, 업적/도전과제, 업적.md",
+    "obsidian-vault-final/공부/세이브포인트/게임개발.md",
+    "obsidian-vault-final/공부/세이브포인트/ai공부.md",
+    "obsidian-vault-final/개발/Sequential Thinking.md",
+    "obsidian-vault-final/개발/playwright.md",
+    "obsidian-vault-final/개발/mastery7.md",
+    "obsidian-vault-final/강의필기(공부에 옮겨서 정리)/Untitled.md",
+    "obsidian-vault-final/1학년1학기 강의 필기/파이썬5장.md",
+    "obsidian-vault-final/1학년1학기 강의 필기/파이썬 총정리.md",
+    "obsidian-vault-final/1학년1학기 강의 필기/파이썬 수 지정 표.md",
+    "obsidian-vault-final/1학년1학기 강의 필기/파이썬 1장.md",
+    "obsidian-vault-final/1학년1학기 강의 필기/파이썬 2장.md",
+    "obsidian-vault-final/1학년1학기 강의 필기/차비사-예술과삶.md",
+    "obsidian-vault-final/1학년1학기 강의 필기/물리 4장.md",
+    "obsidian-vault-final/1학년1학기 강의 필기/물리 실험.md",
+    "obsidian-vault-final/1학년1학기 강의 필기/물리 3장.md",
+    "무제.md",
+    "obsidian-vault-final/1학년1학기 강의 필기/3b1b calculus-1.md",
+    "obsidian-vault-final/Latex/__ 막대기 2개.md",
+    "obsidian-vault-final/Latex/ 폐적분.md",
+    "obsidian-vault-final/Latex/hbar h.md",
+    "obsidian-vault-final/Latex/행렬, matrix.md",
+    "obsidian-vault-final/Latex/무한.md",
+    "obsidian-vault-final/Latex/중괄호 행렬.md",
+    "obsidian-vault-final/Latex/집합 원소(왼쪽은 오른쪽 집합의 원소).md",
+    "obsidian-vault-complete/습관-인간개조 프로젝트/습관",
+    "obsidian-vault-complete/습관-인간개조 프로젝트",
+    "obsidian-vault-complete/문화생활/독후감",
+    "obsidian-vault-complete/문화생활",
+    "obsidian-vault-complete/메뉴얼-노하우(Know-How)/메뉴얼",
+    "obsidian-vault-complete/메뉴얼-노하우(Know-How)",
+    "obsidian-vault-complete/도전과제, 업적",
+    "obsidian-vault-complete/기타",
+    "obsidian-vault-complete/공부/프로그래밍",
+    "obsidian-vault-complete/공부/철학",
+    "무제.canvas",
+    "무제 파일.canvas"
+  ]
+}

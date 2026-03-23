@@ -1,0 +1,9 @@
+---
+title: 델, 나블라, del, nabla
+notion_id: ea04bb3f-53e4-4f70-89e4-44f19aef2f21
+---
+
+# 델, 나블라, del, nabla
+
+![image](https://prod-files-secure.s3.us-west-2.amazonaws.com/afd7fb5c-0ac1-4d5d-8cb8-5b9e2df19bfe/3a305ffb-49f2-407f-be3a-a166d42b4162/Untitled.png?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Credential=ASIAZI2LB466TQFERQL6%2F20260323%2Fus-west-2%2Fs3%2Faws4_request&X-Amz-Date=20260323T064228Z&X-Amz-Expires=3600&X-Amz-Security-Token=IQoJb3JpZ2luX2VjEK7%2F%2F%2F%2F%2F%2F%2F%2F%2F%2FwEaCXVzLXdlc3QtMiJGMEQCIDUXPFOZNxHXEOXT%2Bxe%2FLzhK%2FfB4NSR%2BbvIEDloUwobYAiAP0vnA%2B77e6Uh7q3iCrboWzJA0LAKaTYnX%2F%2F%2FlQmHZ3Sr%2FAwh3EAAaDDYzNzQyMzE4MzgwNSIMaY9JZH1UgnIa7FzCKtwDaWOufxUi0XK%2FHypTRU7eVq038oyNXDPAn6R3jFZC3Yte9qqQqxymykl7pKv4C13LldZtd%2Bnogz%2BbOS9hSdbgGS5qyxQoUGfMEAhfiwtX1%2BNv8O60ZkpcQpDwCz%2FxR488LXNmQ46UAJHijoda%2FVK7jWv%2FN2xeujxCiZ0zEj%2Bd68fGLFiIQ8b%2BbyaWm6enxkPztR0GYOhDUewyOSrr%2BfMaVHR4vRfy3IucDblG7K%2B0MsVRbPDSed%2BEnfkwpO1QAokMVQffDUQTltXGg0uw%2BB%2BIfmH5HeIb6Kgx%2FmC3thp8guIF3VWjgqmseRuKDgV4pDpB3j28SwSnCRnaiKCEO4buK8Ot4oOcZfaM9iXnDWiQjezthYzX2L2FErAbRdnC%2B8JjNTCmkZiIdaVqC%2FzlbSuuWDCqWiHk6Qcez4%2FbrZkgUty2aRzKFuBzyfE47kPCEaPbJcpyMc%2FdR0XMFXIzXzSAm8yFaUwl51p%2BOoQGwoy7uYehPwVm78z2lyGyM2d9PVMB5Bt0%2FGHyiGU1O9lodIYcnxgeCTfqdn5tNo8z%2BOpceLkZn%2FF5J5HFUF17ngQg%2B%2B1kbvi9Gs6g7%2FD9RItrKiQbeB7kFYu2tMn%2B8o7oEBjGuR%2BdRVVHAEV%2FEQHmKecwra2DzgY6pgEe3THK%2Bt%2F4wrdwmU7bJgmqEHwhlbjXlQJ3xoNRhxVWZ3vlBcIDHc7rrZ7X%2BvBmPqL5uszgseYgFcdwXJwt6m2AyE2sYf6ta6zvMjGJXkcORTgzUYfd6OHYKAPSwS2cEhybw0fC2bPkd59r8Wdb1Bro1OdzvfQXH%2Fl5ssu755UmRPgYZ%2FKPSm%2FSo9%2F%2Bxb44gLhU%2BPAi1IrVtNnPJ2otea2A1DNR4SB2&X-Amz-Signature=a5f4694c4540b02b1bd28533b6e7eb545a6a1449ddc001749cc88e54fa183f0d&X-Amz-SignedHeaders=host&x-amz-checksum-mode=ENABLED&x-id=GetObject)
+
