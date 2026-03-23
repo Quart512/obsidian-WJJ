@@ -1,0 +1,17 @@
+# Obsidian 앱 설정
+.obsidian/workspace
+.obsidian/workspace.json
+.obsidian/workspace-mobile.json
+.obsidian/cache
+.trash/
+
+# API 키나 민감한 정보가 있을 수 있는 파일
+.env
+*.env
+
+# Windows 시스템 파일
+Thumbs.db
+desktop.ini
+
+# Mac 시스템 파일
+.DS_Store
