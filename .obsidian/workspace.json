@@ -11,24 +11,15 @@
             "id": "2806caf4cc85f5b4",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "split-diff-view",
               "state": {
-                "file": "obsidian-vault-final/습관-인간개조 프로젝트/습관/ai 재교육 하루 한 섹션.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
-                }
+                "aFile": ".obsidian/plugins/obsidian-git/data.json",
+                "bFile": ".obsidian/plugins/obsidian-git/data.json",
+                "aRef": "HEAD",
+                "bRef": ""
               },
-              "icon": "lucide-file",
-              "title": "ai 재교육 하루 한 섹션"
+              "icon": "diff",
+              "title": "Diff: data.json  (Index)"
             }
           }
         ]
@@ -185,8 +176,19 @@
               "icon": "lucide-archive",
               "title": "모든 속성"
             }
+          },
+          {
+            "id": "93a6a74aa0734fc9",
+            "type": "leaf",
+            "state": {
+              "type": "git-view",
+              "state": {},
+              "icon": "git-pull-request",
+              "title": "Source Control"
+            }
           }
-        ]
+        ],
+        "currentTab": 5
       },
       {
         "id": "287df4b657a08611",
@@ -215,8 +217,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -236,6 +237,8 @@
   },
   "active": "2806caf4cc85f5b4",
   "lastOpenFiles": [
+    "obsidian-vault-final/습관-인간개조 프로젝트/습관/ai 재교육 하루 한 섹션.md",
+    "테스트-OpenClaw.md",
     "obsidian-vault-final/습관-인간개조 프로젝트/습관-인간개조 프로젝트.md",
     "obsidian-vault-final/도전과제, 업적/도전과제, 업적.md",
     "obsidian-vault-final/공부/세이브포인트/게임개발.md",
@@ -260,8 +263,6 @@
     "obsidian-vault-final/Latex/hbar h.md",
     "obsidian-vault-final/Latex/행렬, matrix.md",
     "obsidian-vault-final/Latex/무한.md",
-    "obsidian-vault-final/Latex/중괄호 행렬.md",
-    "obsidian-vault-final/Latex/집합 원소(왼쪽은 오른쪽 집합의 원소).md",
     "obsidian-vault-complete/습관-인간개조 프로젝트/습관",
     "obsidian-vault-complete/습관-인간개조 프로젝트",
     "obsidian-vault-complete/문화생활/독후감",
