@@ -1,8 +1,3 @@
----
-title: pain, Self Disciplin
-notion_id: 691a762e-5023-4a50-8aef-21540bffe720
----
-
 # pain, Self Disciplin
 
 너 정말 이거 그정도로 좋아해? 물어볼 뿐이다. ‘응’이라고 말하면 된다.
