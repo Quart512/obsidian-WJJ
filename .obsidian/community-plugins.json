@@ -1,4 +1,10 @@
 [
   "obsidian-git",
-  "obsidian-tasks-plugin"
+  "obsidian-tasks-plugin",
+  "table-editor-obsidian",
+  "calendar",
+  "dataview",
+  "obsidian-excalidraw-plugin",
+  "obsidian-kanban",
+  "templater-obsidian"
 ]
